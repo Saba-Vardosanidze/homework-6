@@ -1,0 +1,17 @@
+@import "tailwindcss";
+body {
+  background-color: #0a0d17;
+  font-family: "Inter";
+}
+
+.sendingButton {
+  background: linear-gradient(
+    90deg,
+    rgba(118, 58, 245, 1) 0%,
+    rgba(166, 4, 242, 1) 100%
+  );
+}
+@font-face {
+  font-family: "Inter";
+  src: url("./fonts/Inter_18pt-Regular.ttf");
+}
